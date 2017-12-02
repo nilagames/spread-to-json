@@ -9,7 +9,7 @@ const writeDataToFile = (data, filename, sheetname) => {
 
 const callParse = (filename) => {
   const jsonData = xlsx.parse(`${__dirname}/sheets/${filename}.xlsx`);
-  let allData = [];
+  let allData = {};
   jsonData.map((currentObj, index) => {
     let sheetname = currentObj.name;
     let sheetdata = currentObj.data;
@@ -28,7 +28,7 @@ const callParse = (filename) => {
       });
       if (!allEmpty) dataObj.push(obj);
     });
-    allData.push(dataObj);
+    allData[sheetname] = dataObj;
     writeDataToFile(dataObj, filename, sheetname);
   });
   writeDataToFile(allData, filename, 'data');
