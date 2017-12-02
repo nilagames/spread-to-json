@@ -1,8 +1,46 @@
 const xlsx = require('node-xlsx').default;
-const fs = require('fs');
+const fse = require('fs-extra');
 
-const workSheetsFromFile = xlsx.parse(`${__dirname}/sheets/ice-en-prekids.xlsx`);
+const writeDataToFile = (data, filename, sheetname) => {
+  fse.outputFile(`json/${filename}/${sheetname}.json`, JSON.stringify(data), 'utf8', function (error) {
+    if (error) console.error(error);
+  });
+};
 
-fs.writeFile('json/ice-en-prekids.json', JSON.stringify(workSheetsFromFile), 'utf8', function (err) {
-  console.log(err);
-});
+const callParse = (filename) => {
+  const jsonData = xlsx.parse(`${__dirname}/sheets/${filename}.xlsx`);
+  let allData = [];
+  jsonData.map((currentObj, index) => {
+    let sheetname = currentObj.name;
+    let sheetdata = currentObj.data;
+    let dataObj = [], header;
+    sheetdata.map((sheetObj, sheetIndex) => {
+      if (sheetIndex === 0) {
+        header = sheetObj;
+        return;
+      }
+      let obj = {}, allEmpty = true;
+      sheetObj.map((rowObj, rowIndex) => {
+        obj[header[rowIndex]] = rowObj;
+        if (rowObj) {
+          allEmpty = false;
+        }
+      });
+      if (!allEmpty) dataObj.push(obj);
+    });
+    allData.push(dataObj);
+    writeDataToFile(dataObj, filename, sheetname);
+  });
+  writeDataToFile(allData, filename, 'data');
+};
+
+const init = () => {
+  let filename = process.argv.length > 2 ? process.argv[2] : '';
+  if (filename) {
+    callParse(filename);
+  } else {
+    console.warn('file name missing');
+  }
+};
+
+init();
