@@ -1,0 +1,1555 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/fb4QzGPd8-epK_fozBfOkrZdJJo\"",
+  "pageInfo": {
+    "totalResults": 35,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/151Dglhj6gsMKJlgYyoTaI_qzL0\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-03-31T09:51:03.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "30 Day Meditation Challenge for Beginners - Goal Setting - Day 0",
+        "description": "Welcome to day 0 - the Pre-challenge assignment to allow you to set clear goals of where you want to be at the end of this 30 day meditation challenge for beginners. You may want stress relief, improve your health, lower your blood pressure, reduce anxiety, cure insomnia, connect with your spirituality or develop psychic skills... no matter what your goals are, this 30 day meditation challenge is ideal for any beginners, who just want to learn how to meditate in a simple and easy way. So join me on this meditation challenge where there will be a new exercise waiting for you each day.\n\nSubscribe to stay updated!!!\nMy Amazon eBooks ► https://www.amazon.com/JBITTERSWEET/e/B00YAVPCIA\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjJN6_Mn674/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjJN6_Mn674/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjJN6_Mn674/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xjJN6_Mn674/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xjJN6_Mn674"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xjJN6_Mn674",
+        "videoPublishedAt": "2015-03-31T09:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/omDEQPGCMkWPtQJHW2OxahXGfBU\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2015-04-01T12:03:32.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "How to Meditate - Meditation for Beginners - Day 1",
+        "description": "Learn how to meditate if you are a beginners and completely new to meditation. this is day 1 of the 30 day meditation challenge for beginners, and will teach you all the basics of meditation and how to meditate. So take this meditation challenge for beginners and learn to meditate so that you can improve your health, improve your concentration, lower your blood pressure, reduce stress, think clearly, raise your awareness and consciousness, become more spiritual, and improve your life so that you can be happy, healthy and whole as a person.\n\nSupport me - https://www.patreon.com/jbittersweet \n\nToday's challenge will be a simple breathing meditation to teach you how to meditate and how to empty your mind of thoughts and inner chatter. The most difficult thing when you are just starting out with meditation, is to empty your mind and become thoughtless... your mind will wander and you will start to have inner conversations with yourself which is completely normal... so this exercise will help you stay focused and stay still.\n\nGet the eBook on Amazon: http://www.amazon.com/gp/product/B00YAMX182\n\nVisit my Blog - http://jbittersweet.com/blog/\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n4fRZU5oEMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n4fRZU5oEMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4fRZU5oEMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n4fRZU5oEMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n4fRZU5oEMI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "n4fRZU5oEMI",
+        "videoPublishedAt": "2015-04-01T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/gZBazc95N77WE_FHTA_lyHk_V-I\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2015-04-02T12:06:51.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Counting Meditation - Simple Breathing Meditation - Day 2",
+        "description": "Counting the breath is a create way to calm down your breathing and at the same time stay focus during meditation. We will count to 5 while inhaling and 8 while exhaling to allow your parasympathetic nervous system to become active so that you can relax and reduce stress and anxiety. You can do this meditation exercise any time of the day whenever you need a break or feel anxious or stressed out. This video will guide you through this breathing meditation and count for you, so that yo can focus on the breath and on relaxing. This is a great anxiety technique and can reduce fear and anxiety in minutes.\nIf you feel dizzy stop the exercise or try making the inhalations and exhalations shorter.\n\nSubscribe to stay updated on this 30 day meditation challenge for beginners!!!!!\n\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ppaZpkBenmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ppaZpkBenmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ppaZpkBenmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ppaZpkBenmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ppaZpkBenmQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ppaZpkBenmQ",
+        "videoPublishedAt": "2015-04-02T12:00:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/4QIhS8e1MgdLJmnNd_mwqmLNL-0\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2015-04-03T14:54:20.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Body Scan Meditation for Insomnia to Help You Fall Asleep - Day 3",
+        "description": "This full body scan meditation will help you fall asleep at night and fight insomnia and stress. This guided sleep meditation will guide you through every part of your body to release tension and worry so that you can fall asleep. A body scan is a great way to release stress and tension and help you relax and let go of unnecessary negativity. So today's challenge of the 30 day meditation challenge for beginners, will focus on how to sleep better and improve your overall health.\nYou need to take care of your physical body and meditation can help you feel less stressed out and less angry and frustrated. So scan your body and remove tension and worries so that you can have a nice long and calm sleep and remove insomnia and sleep disorders.\n\nSubscribe to stay updated on this 30 day meditation challenge for beginners!!!\n\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nyc6iFMX78Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nyc6iFMX78Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nyc6iFMX78Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nyc6iFMX78Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nyc6iFMX78Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nyc6iFMX78Q",
+        "videoPublishedAt": "2015-04-03T12:04:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/UKhfvxlnFIyaS3WGB0rQ4RQ0oxk\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2015-04-05T08:57:58.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Mindfulness Meditation - Guided Mindfulness Exercise (Vipassana) - Day 4",
+        "description": "Mindfulness meditation, or vipassana meditation, is all about becoming aware of all the things around and inside you and is great for stress relief and reconnecting with your physical body to center yourself. Mindfulness allows you to focus on this present moment and not reflecting on the past or worrying about the future. You have to be mindful and experience this moment right now. Mindfulness is a very well-known type of meditation, and is great for beginners, as it is very simple and easy. what you need to do is to observe your breathe and what you hear, smell and feel but without analyzing anything or interacting with thoughts. You learn to become mindful and observant.\nThis is day 4 of the 30 day meditation challenge for beginners to help you find inner peace and happiness in this stressful modern society. \n\nSubscribe to stay updated and get the latest videos!!!\n\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0x-J1EM5B-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0x-J1EM5B-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0x-J1EM5B-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0x-J1EM5B-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0x-J1EM5B-Y"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0x-J1EM5B-Y",
+        "videoPublishedAt": "2015-04-04T13:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/CW_U5TK2au55UXlUnpSKyfuT_3c\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2015-04-05T15:50:37.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Gratitude Meditation - Influence the Law of Attraction - Day 5",
+        "description": "Gratitude is so powerful, as it puts us in a state of joy and happiness and we thereby raise our vibrational frequency as we become more positive and send out love to the universe, which affect the Law of Attraction. So say thanks for all that you have and attract more greatness into your life with the power of law of attraction, now that your vibrational frequency is higher.\n\nThis meditation exercise will allow you to reflect on all the things you have in your life so that you can feel grateful for the state you are in right now. We need to appreciate where we are in order to go where we want to go. So do this gratitude meditation for the law of attraction and attract happiness, success and love into your life.\n\nSubscribe!!!\nFollow me on Twitter ► https://twitter.com/jbittersweety\nMy Amazon eBooks ► https://www.amazon.com/JBITTERSWEET/e/B00YAVPCIA\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eUSYIPZa314/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eUSYIPZa314/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eUSYIPZa314/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eUSYIPZa314/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eUSYIPZa314"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eUSYIPZa314",
+        "videoPublishedAt": "2015-04-05T13:00:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/sztINXljzbEcR6rpVETNCpbmX4Y\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2015-04-06T20:17:13.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Grounding Meditation - How to Ground and Center Yourself - Day 6",
+        "description": "Grounding meditation is a great way to create balance and stability in your life. Grounding helps you reconnect with the earth and makes you feel centered and steady. Grounding meditation can give you a feeling of balance in your life and reduce stress and anxiety. Grounding is especially good for people who suffer from anxiety or have panic attacks, as they get a feeling of losing control and floating... Grounding meditation is then able to reduce the anxiety and severity of the panic attack by giving them stability and steadiness.\nThis is day 6 of the 30 day meditation challenge for beginners, and this is an easy exercise where you only need to listen to my voice, as I guide you through this meditation exercise for relaxation and stress relief.\n\nSubscribe to stay updated!!!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ak1t0OPXEsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ak1t0OPXEsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ak1t0OPXEsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ak1t0OPXEsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ak1t0OPXEsQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ak1t0OPXEsQ",
+        "videoPublishedAt": "2015-04-06T12:00:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/OcuXEYk5pyrn7KztSlFmMh57k3M\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2015-04-08T10:23:14.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Root Chakra Meditation - Heal and Balance Your Root Chakra - Day 7",
+        "description": "Heal and open your root chakra, Muladhara, to create steadiness and security. The root chakra needs to be healed, open and spinning to create balance throughout your chakra system. Chakras are spiritual energy fields from the base of your spine to the top of your head, and each chakra is associated with different individual characteristics. The root chakra is the spiritual location of stability and steadiness. An open and healed root chakra will create a feeling of being grounded and secure, and reduce anxiety and fear, as you have a strong foundation. The root chakra connects you with the earth and the physical world. This is a healing meditation to allow you to be all you can be and feel whole as a person and be confident and strong.\n\nThis is a guided meditation of the root chakra with relaxation and soft ambient music, and is great for beginners and people who want to learn how to meditate. So join this 30 day meditation challenge for beginners... this is day 7.\n\nSubscribe for more videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\nMy Amazon eBooks ► https://www.amazon.com/JBITTERSWEET/e/B00YAVPCIA\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Wf4VRc0ETs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Wf4VRc0ETs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Wf4VRc0ETs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Wf4VRc0ETs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Wf4VRc0ETs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2Wf4VRc0ETs",
+        "videoPublishedAt": "2015-04-07T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/1nElIHRvyeIR8P01T594m5a-V80\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2015-04-08T19:45:36.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Guided Visualization Meditation for Stress Relief and Relaxation - Day 8",
+        "description": "Visualization meditation is a great way to reduce stress and tension and induce relaxation and peace in your life. This is a guided meditation of a visualization meditation on a quiet and peaceful beach, to help you completely relax and get a break from a stressful life. This is day 8 of the 30 Day meditation challenge for beginners for people who want to learn how to meditate and learn all the basics of meditation. This is therefore an easy guided meditation exercise for relaxation that can improve your health and connection to your spirituality. So join the challenge and learn how to meditate to get a healthier life, both physically and mentally, as meditation is not only able to improve your mood, help you find inner peace and reduce anxiety, but can also reduce blood pressure, treat insomnia, and boost your immune system.\n\nSubscribe for more videos\nFollow me on Twitter ► https://twitter.com/jbittersweety\nMy Amazon eBooks ► https://www.amazon.com/JBITTERSWEET/e/B00YAVPCIA\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OHs5pQlNJTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OHs5pQlNJTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHs5pQlNJTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OHs5pQlNJTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OHs5pQlNJTY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OHs5pQlNJTY",
+        "videoPublishedAt": "2015-04-08T12:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/yTOIe4ZnVZ5JXtxcR2JhfnHvkPE\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2015-04-11T21:31:47.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Sacral Chakra Meditation - Heal and Balance Your Chakra - Day 9",
+        "description": "Guided sacral chakra meditation to heal and balance the chakras. The sacral chakra, or Svadhishthana, is associated with your emotions, sexuality and creativity and the chakra needs to be healed and spinning in order to create balance and harmony in your chakra system. A closed Sacral chakra can make you less connected with your emotions or sexuality or it can make you too emotional. So do this sacral chakra healing meditation... a spiritual healing meditation for your spiritual energy fields in your body. \n\nThis is day 9 of the 30 day meditation challenge for beginners, and today's meditation exercise will help you heal and open your sacral chakra so that you can feel like a whole person and be comfortable and confident with who you are and your own personality. This is a soft and peaceful healing meditation with ambient relaxation music.\n\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qr7YXGMbFx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qr7YXGMbFx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qr7YXGMbFx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qr7YXGMbFx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qr7YXGMbFx0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qr7YXGMbFx0",
+        "videoPublishedAt": "2015-04-09T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/ukgwRf6xbAU1Ld9Nj_fQ1h_z4O0\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2015-04-11T21:31:54.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "SoHum Meditation Mantra - How to Empty The Mind - Day 10",
+        "description": "The SoHum, or SoHam, meditation mantra is an ancient meditation technique also used in yoga. You will chant the word So when you breathe in and Hum when you breathe out (in your mind), which create a peaceful rhythm and helps emptying the mind and stop inner chatter and thoughts. SoHam is Sanskrit and means \"I am That\", which helps you connect with the universe and the world around, as you become one with everything, just like God told Moses \"I am that I am\".\nThe Sohum chant is also a great meditation technique for beginners, as it is simple and easy to do, and helps you focus and keep thoughts out of the mind during meditation. This is day 10 of the 30 Day Meditation Challenge for Beginners, and this is guided meditation exercise for relaxation and inner peace.\n\nDon't forget to Subscribe :-)\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOsb9PJmFQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOsb9PJmFQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOsb9PJmFQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yOsb9PJmFQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yOsb9PJmFQc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yOsb9PJmFQc",
+        "videoPublishedAt": "2015-04-10T12:00:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/dxCtrBqHqTK45tpTUckRX-dC4vk\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2015-04-11T21:32:00.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Solar Plexus Chakra Meditation - Healing of Will Power and Confidence - Day 11",
+        "description": "Guided Solar plexus chakra meditation with soft ambient healing meditation music for relaxation. The solar plexus, or Manipura in Sanskrit, is the location of your will power and confidence and self esteem. Opening and healing your solar plexus chakra, can therefore help you feel more confident and strength your will power and ability to make decisions and follow your goals and dreams. This solar plexus meditation is easy to follow and great for beginners. This is day 11 of the 30 Day Meditation Challenge for Beginners, to teach you the basics of meditation and how to meditate. Chakra meditation is a central exercise in spiritual meditation and something that can heal and improve your physical, mental and spiritual body.\nSo do this guided meditation and heal and open your solar plexus chakra and make sure that it is spinning and is balanced. So if you want to learn how to be confident and improve your self esteem, this guided chakra meditation may be able to help you and make you feel strong and with a strong will power.\n\nSubscribe to stay updated!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_-XeD1JWOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_-XeD1JWOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_-XeD1JWOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_-XeD1JWOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I_-XeD1JWOk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I_-XeD1JWOk",
+        "videoPublishedAt": "2015-04-11T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/C0tPTD89GgDJNOuhyuQHGWOjbb0\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2015-04-14T13:30:07.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Mindful Shower - Mindfulness Meditation Exercise for Cleansing and Healing - Day 12",
+        "description": "Mindfulness helps us to become aware and mindful of all the things we experience, and takes us out of our autopilot mode, so that we can begin to experience the beauty of our everyday life. This meditation exercise is a mindful shower exercise with soft shower sounds of falling water, where you will stay mindful for the entire shower, and observe every physical sensation of what you feel, hear, see, and smell. Take in everything and learn to connect with your senses. Mindfulness is a great way of experiencing the world, and mindfulness can be done everywhere and with everything such as the shower. A shower a the perfect opportunity to heal and cleanse the body and mind, as it is our quiet and peaceful time alone... our time of solitude and healing, so why not use this time to do the meditation of the day.\n\nThis is day 12 of the 30 day meditation challenge for beginners... so join the challenge and get a new meditation exercise every day for stress, relief, healing, spiritual development, and health improvement.\n\nSubscribe now to get more videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NQZYPBpR3Es/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NQZYPBpR3Es/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQZYPBpR3Es/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NQZYPBpR3Es/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NQZYPBpR3Es"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NQZYPBpR3Es",
+        "videoPublishedAt": "2015-04-12T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/lsjjc-Zsy4HFidj0JiJUg1k3VHE\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2015-04-14T13:30:24.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Heart Chakra Meditaton - Heal Your Heart and Find Love - Day 13",
+        "description": "Your heart chakra, Anahata, is the center for love and compassion, and you need to heal and balance your heart so that you can give and receive love. Your heart chakra allows you to feel unconditional love, but if your chakra is closed or overactive, it can create imbalance and make you either emotionally cold or too love seeking. So balance your chakra and heal your heart with this guided heart chakra meditation for beginners. This is day 13 of the 30 day meditation challenge for beginners, so that you can learn how to meditate if you are completely new to meditation.\n\nSo open and heal your heart and allow yourself to love so that you can find love in your life and feel like you deserve to be loved. This will help you attract love in your life and attract by the law of attraction great people into your life, with whom you can share your love.\n\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yvSmQBZFTno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yvSmQBZFTno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yvSmQBZFTno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yvSmQBZFTno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yvSmQBZFTno"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yvSmQBZFTno",
+        "videoPublishedAt": "2015-04-13T12:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/1ORKIXgefSN7MnO0nImqmqUbYSY\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2015-04-15T08:56:39.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Guardian Angel Meditation for Protection and Healing of the Heart - Day 14",
+        "description": "Your guardian angel is there to protect you and keep you safe and sound, so do this guardian angel meditation and let your angel know that you welcome it in to your life and that you want and in its protection and love to heal your heart and make you feel happy and joyful. Your guardian angel is always there with you, and is you are feeling sad and depressed, the angel can help comfort you and lift your spirit. Your guardian angel is also able to guide you through life and help you make the right decisions. So try this guardian angel meditation for protection and inner peace, with soft meditation music, and reconnect with your angel. This is day 14 of the 30 day meditation challenge for beginners, to teach you how to meditate in an easy and simple way to create inner peace and happiness and reduce stress, anxiety and worry.\n\nSubscribe for more videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\nJbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GkqrHJ094Hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GkqrHJ094Hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GkqrHJ094Hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GkqrHJ094Hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GkqrHJ094Hg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GkqrHJ094Hg",
+        "videoPublishedAt": "2015-04-14T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/5dAH3_zglEDxL6r4JKr_2eA9mTY\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2015-04-16T22:51:06.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Throat Chakra Meditation to Overcome Shyness - Day 15",
+        "description": "Heal and open your throat chakra, Vishuddha, so that you can overcome shyness and learn to speak up and be heard. an under-active throat chakra can make you shy and insecure and make you hold back your opinions and afraid of speaking. an overactive throat chakra can make you loud and pompous and a bad listener. So heal and balance your throat chakra with this guided chakra meditation and allow yourself to feel more confident, and with greater self esteem. This throat chakra meditation will allow you to heal your chakra and make it glow and spin again, just the way it is supposed to. We need to balance all of our chakras to make sure that we are feeling whole and express every part of us and our personality. So try this throat chakra meditation if you feel like your voice is not being heard or you are shy and afraid of speaking up, or if people seem to find you too loud and egoistic.\n \nThis is day 15 of the 30 day meditation challenge for beginners on how to meditate. Subscribe to stay updated and get your daily videos!\n\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BN9DF68FJWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BN9DF68FJWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BN9DF68FJWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BN9DF68FJWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BN9DF68FJWI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BN9DF68FJWI",
+        "videoPublishedAt": "2015-04-15T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/DNBIU9pUQ1k1H5vriST2gqr5YAc\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2015-04-16T22:51:22.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Guided Sleep Meditation and Hypnosis for Insomnia - Fall Asleep Fast - Day 16",
+        "description": "This guided sleep meditation and hypnosis for insomnia will help you fall asleep fast and naturally as it will help you relax and get tired. Sleep meditation or sleep hypnosis can help you treat insomnia or other sleep disorders, and allow you to de-stress and let go of worries and thoughts that are keeping you awake. This sleep meditation is a hypnosis meditation with a countdown to pull you deep into sleep.\nThis guided sleep meditation exercise with soft sleep music, will help you relax and experience inner peace and calmness. So let go of all the troubles that are keeping you from falling asleep at night.\n\nThis is day 16 of the 30 day meditation challenge for beginners. This meditation challenge will teach you all the basics of meditation so that you can experience inner peace and balance. Today's exercise focuses directly at sleep, though any type of meditation on a daily basis will greatly improve your sleep and fight insomnia. So go to bed and relax, and let my guide you through this sleep hypnosis to allow you to sleep better.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YBq-PsDB1KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YBq-PsDB1KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YBq-PsDB1KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YBq-PsDB1KY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YBq-PsDB1KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YBq-PsDB1KY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YBq-PsDB1KY",
+        "videoPublishedAt": "2015-04-16T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/lbkxygopeACwuufHlB6Ay5kxNmU\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2015-04-17T13:32:10.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Third Eye Chakra Meditation - For Psychic Development - Day 17",
+        "description": "Open your third eye chakra with this third eye meditation for psychic development, as a part of a complete chakra meditation practice. Heal and open your third eye, or ajna chakra, to connect with your spiritual side and psychic abilities. The third eye is the chakra of spirituality and the eye of universal wisdom, knowledge  and psychic abilities. The third eye chakra is connected to your vision, and is the key in the psychic development of clairvoyance to see into the paranormal and supernatural world of spirits and dimensions. Your entire chakra system needs to be in balance and therefore it is important to work your way through every chakra, whether or not you want to develop your psychic abilities. This third eye meditation will allow you to bring balance in your chakras, and make sure every chakra is healed and working properly. But if you goal is to develop psychic abilities this chakra helps you connect with that part of you, and allows you to see into the universe. Third eye awakening helps you open and activate your third eye chakra and pineal gland. The third eye chakra is quite powerful, and one should treat it with the proper respect and caution. \n\nThis is day 17 of the 30 day meditation challenge for beginners, for people who want to learn how to meditate in an easy and simple way. So subscribe to stay updated!\n\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-RFgES3Xx7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-RFgES3Xx7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RFgES3Xx7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-RFgES3Xx7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-RFgES3Xx7I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-RFgES3Xx7I",
+        "videoPublishedAt": "2015-04-17T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/V35TjHktH-7qeersovwMOIRACzg\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2015-04-19T07:36:54.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Aum/Om Mantra Chanting Meditation for Spiritual Awakening - Day 18",
+        "description": "The Aum or Om mantra is an ancient chanting mantra that has the powerful ability to generate a strong spiritual vibration that allows us to connect with universal energies, the divine and internal energies. The Aum/Om Mantra is believed to be a sacred sound of a universal sound of creation. Chanting this Aum mantra in this guided meditation helps you relax and find inner peace, spiritual enlightenment and balance. It generates stability inside you and your energies and you will able to feel it vibrate inside your body with its powerful energy of enlightenment and spiritual awakening.\nThe Aum or Om mantra allows you to empty your mind of thoughts and inner chatter... So if you do not know how to stay focused and empty your mind during meditation, chanting meditation can help you with that. So try this chanting meditation of peace and spiritual awakening, and let the mantra vibrate in every part of your body.\nThis is day 18 of the 30 day meditation challenge for beginners. The challenge that will help you learn to meditate for beginners, if you want inner peace, stress relief, spiritual or psychic awakening, or whatever your goal may be.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_NCsfQ7ZHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_NCsfQ7ZHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_NCsfQ7ZHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D_NCsfQ7ZHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D_NCsfQ7ZHI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "D_NCsfQ7ZHI",
+        "videoPublishedAt": "2015-04-18T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/1d_fy5sSvQJqU6qNrsU7yTzyfkg\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2015-04-20T09:55:54.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Crown Chakra Meditation - Higher Self and Intuition Development - Day 19",
+        "description": "This Crown chakra meditation will allow you to connect with your higher self and intuition to receive guidance and enlightenment. The crown chakra, Sahasrara, is the seventh chakra in the chakra system and connects you to the universe and divine energies. So reconnect with your intuition and higher self, which can help you make decisions and know which way to go in life. This crown chakra is the most spiritual chakra and is a doorway to the universe and spiritual awakening of enlightenment and wisdom. So heal and balance your crown chakra, to open it so that it can receive messages and guidance. So open up to the universe and connect with the universal energies around you, to allow you to feel like a part of something greater and more powerful.\n\nThis is day 19 of the 30 day meditation challenge for beginners, for people who want to learn how to meditate in an easy and simple way, step by step with guided meditation exercises.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_yII0D5TqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_yII0D5TqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_yII0D5TqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y_yII0D5TqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y_yII0D5TqE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Y_yII0D5TqE",
+        "videoPublishedAt": "2015-04-19T13:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/dbtp8dcthUhXoQ_RbxFoCxaQ_aY\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2015-04-20T21:56:13.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Anulom Vilom Pranayam Yoga Breathing Meditation - Day 20",
+        "description": "The Yoga breathing exercise Anulom Vilom Pranayam, is one type of pranayama, and is great for beginners, as it is simple but very powerful. The Yoga breathing technique pranayam, means extension of the breath, and the anulom vilom pranayam yogic exercise has great benefits and a strong effect on increasing your lung capacity, your respiratory system, your circulatory system and can help boost your metabolism and helps you lose weight, as a yoga for weight loss. The pranayama techniques are used in yoga and if you want some easy yoga exercises for beginners, why not start with the central part of the breath, to restore your health and give you inner peace. \nAnulom vilom pranayam, also known as Alternate Nostril Breathing, is great for people who suffer from asthma or anxiety, as it help you breathe and clears your airway to better obtain oxygen. In Anulom Vilom Pranayam, you will inhale and exhale through only one nostril at the time, switching between the right and the left. This guided meditation video, will help you through the meditation exercise, and if therefore great for beginners.\n\nIMPORTANT: if you feel any dizziness or discomfort, adjust the speed and the length of the inhalations and exhalations, or take a break.\n\nThis is day 20 of the 30 day meditation challenge for beginners. So if you have come this far, congratulation! you are well on your way to learn how to meditate and make meditation a part of your daily life to improve your health.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E9l5FCnunkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E9l5FCnunkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E9l5FCnunkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E9l5FCnunkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E9l5FCnunkc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "E9l5FCnunkc",
+        "videoPublishedAt": "2015-04-20T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/MrREswi7EYyLhKmbHPGytTovhjY\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2015-04-22T22:20:31.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Positive Affirmations to Boost Self Confidence and Self Esteem - Day 21",
+        "description": "This positive affirmation exercise will help boost and improve your self confidence and self esteem so that you can attract happiness into your life by the law of attraction. Positive affirmations are used to influence your subconscious mind to believe this new truth your are repeating to yourself with the affirmations. Positive affirmations are thereby able to boost your self confidence and make you believe in yourself and your own abilities and talents of you are wandering how to be more confident, how to improve your self esteem and how to overcome shyness and insecurities. \n\nPositive affirmations are not a one time thing, but a lifestyle change, where you will replace your negative vocabulary with positive and empowering words, that you make you feel confident with who you are, and what you have to offer. Self confident and self esteem is something we all want, as we live in a world where the only way to get what we want and be taken seriously is by radiating self confidence, though we all have self doubt and sometimes low self esteem. Positive affirmations can help you appreciate yourself and realize that you are a unique person and the things you have to offer, no one else have. So try this positive affirmation and allow the empowering words to sink deep down into your subconscious mind and start believe in yourself.\nThis is day 21 of the 30 day meditation challenge for beginners. This meditation challenge helps you find inner peace and balance and teaches you how to meditate.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mCb96SIo5Gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mCb96SIo5Gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mCb96SIo5Gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mCb96SIo5Gs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mCb96SIo5Gs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mCb96SIo5Gs",
+        "videoPublishedAt": "2015-04-21T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/KNGDuro2uYplXrClYU9poKvOq2U\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2015-04-22T22:20:46.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Guided Visualization Meditation with Nature Sounds for stress Relief - Day 22",
+        "description": "Listen to this guided meditation of a relaxing visualization meditation of a peaceful and calm stream, with real soothing nature sounds of running water for stress relief and inner peace. This guided visualization meditation will help you feel relaxed and calm and the water sounds will feel mesmerizing and pull you in to relaxation... away from stress and worries, and away from responsibilities and obligations. Visualizations are great for beginners, as they only require that you listen and allow yourself to relax. So listen to this guided meditation and allow it remove stress from your mind and tension from your body and can help you with stress management, insomnia and sleep difficulties so that you can learn how to sleep better with meditation. \n\nThis is day 22 of the 30 day meditation challenge for beginners, for people who want to learn how to meditate and find inner peace and happiness. So if you want to learn how to mediate so that you can release stress, become more spiritual aware, develop psychic abilities, or whatever your goal may be, this 30 day challenge can help you reach that goal and help you get started with meditation in an easy and simple way with daily guided meditation exercises.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tcRwDqH9WJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tcRwDqH9WJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tcRwDqH9WJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tcRwDqH9WJE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tcRwDqH9WJE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tcRwDqH9WJE",
+        "videoPublishedAt": "2015-04-22T13:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/ov-7JeNkXU8uN9g51QAgZB4q49g\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2015-04-23T19:10:13.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Guided Healing Meditation to Heal Your Mind and Body - Day 23",
+        "description": "Heal your body and mind with third relaxing healing meditation that with guide you through a peaceful spiritual healing meditation with soft soothing healing music to help you relax and find inner peace. Healing meditation can help you restore your physical body and heal your mind. Healing meditation can help boost your immune system and induce healing inside your body. Healing should of course not replace any medical treatment, but can be used as a complimentary treatment to energize your body and catalyze the natural healing process. Healing meditation allows you to direct energize to the part of your body that needs healing from sickness, illnesses, stress, disease or tension. So improve your overall health with healing meditation and soothing healing music.\n\nThis is day 23 of the 30 day meditation challenge for beginners, that helps you get started with meditation and teaches you how to meditate. Today is all about spiritual healing to heal your wounds, sickness, illnesses, mind, body and heart. Meditation is able to boost the immune system and your natural defense against disease, to help you fight the illness.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WT7tfG9X-yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WT7tfG9X-yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WT7tfG9X-yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WT7tfG9X-yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WT7tfG9X-yg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WT7tfG9X-yg",
+        "videoPublishedAt": "2015-04-23T13:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/1gPsQs9XL9loQlZuqV-mCcMvk54\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2015-04-25T01:03:53.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Yoga Breathing Kapalbhati Pranayama - Yoga for Weight Loss and Losing Belly Fat - Day 24",
+        "description": "Kapalbhati is a yoga breathing meditation that is great for losing weight, improve circulation, and energizing the body. This Yoga exercise for beginners, is a different type of meditation. So if you want to lose weight, lose belly fat, strengthen your belly muscles, get rid of love handles, tone your muscles, get a six pack or improve circulation in your body, then this Yoga exercise can help you with that. Kapalbhati pranatama is an ancient yoga breathing exercise that can be quite difficult to do, as it requires a lot of abdominal muscles and belly strength, which is why this yoga exercise is great if you want to lose weight and want to know how to get a flat stomach with yoga and meditation.\n\nMost types of meditations help you relax but this yoga breathing exercise energizes your body and increases blood flow and transportation of oxygen to your cells. therefore it is not recommended that especially people with high blood pressure, heart disease or hernia do this exercise.\n\nThis is day 24 of the 30 day meditation challenge for beginners, and today's challenge will teach you this great yoga breathing exercise which is both great for your mind and body.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oEE5IJdBvVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oEE5IJdBvVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oEE5IJdBvVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oEE5IJdBvVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oEE5IJdBvVc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oEE5IJdBvVc",
+        "videoPublishedAt": "2015-04-24T13:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/4PdRs1SWTt-cTUqPdGPU9EUzvU0\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2015-04-27T08:32:57.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Mindful Eating - Awareness Meditation to Break Autopilot - Day 25",
+        "description": "Mindfulness eating is a great way to break out of autopilot and increase awareness and lose weight as you will learn how to eat less. This Mindful Eating exercise will allow you to truly experience even the smallest things in your everyday life, and make you appreciate the beauty in everything. Mindfulness is a way to take in the world and learn to stay mindful and present, so that you do not waist precious time on autopilot, letting your life drift away in front of your eyes. Mind eating is the practice of staying mindful while eating your meal, whatever it is, and to take in every observation and experience. Mindfulness can great improve your life, and help you feel happy and joyful and feel much more at peace and centered, as you now see the beauty in everything, which makes life seem great and amazing, as life is beautiful.\n\nMindful eating also allows you to give your body the time it needs with a healthy eating patter, so that your stomach can get the time to take in and digest the food. Eating slower can help your digestion and help prevent and treat constipation and bloating. Eating slower is also a great way to lose weight, as you will give your body time to process the food and send out the signal of fullness. So if you want to lose weight, try mindful eating as a tool for weight loss and a way to eat less.\n\nThis is day 25 of the 30 day meditation challenge for beginners. This 30 meditation challenge will help beginners, get started with meditation and show them how to meditate in a very simple and easy way, with new guided meditation exercises daily.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ssHLXCW8zkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ssHLXCW8zkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ssHLXCW8zkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ssHLXCW8zkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ssHLXCW8zkc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ssHLXCW8zkc",
+        "videoPublishedAt": "2015-04-25T13:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/X2i_-uX72wcQOcWKSWMg5QtOmQ8\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2015-04-27T08:33:10.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Guided Full Chakra Healing and Balancing Meditation - Day 26",
+        "description": "Heal and balance all of your chakras, to insure great healthy and happiness with this guided chkakra meditation, where we will go through all the different chakras from the root chakra (Muladhara), The sacral chakra or Naval chakra (Svadhishthana), the Solar Plexus (Manipura), the Heart chakra (Anahata), the Throat chakra (Vishuddha), Third eye chakra (Ajna) to the Crown chakra (Vishuddha). So heal your chakras and heal your body and mind and allow yourself to be all you can be. Chakra meditation is a great tool to find inner peace and happiness, as your will heal and balance your chakra system and make sure each chakra is open and working properly. This will allow you to feel steady, in touch with your sexuality and creative abilities, improve your will power and self confidence, allow you to love and find love, teaches you to speak up and overcome shyness, reconnect with your spirituality and help you receive spiritual guidance. So do this full chakra meditation with soft healing music in the background to help you relax and find inner peace.\n\nThis is day 26 of the 30 day meditation challenge for beginners... the challenge that will teach beginners how to meditate and how to get started.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KbxRecAStGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KbxRecAStGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KbxRecAStGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KbxRecAStGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KbxRecAStGE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KbxRecAStGE",
+        "videoPublishedAt": "2015-04-26T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/B0DmNf7y12_4bY6XVGSX2uYX43o\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2015-04-28T22:17:54.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Trataka - Gazing Meditation to Improve Concentration and Psychic Abilities - Day 27",
+        "description": "Trataka or gazing meditation is an ancient technique that can improve concentration, eyesight and psychic abilities and help with psychic development as it can activate the third eye chakra and pineal gland. Trataka, is a very simple yet powerful yoga meditation exercise, where all you need to do is to gaze at an object, normally a candle, for as long as possible without blinking, and then close your eyes and let the afterimage of the candle, manifest in your minds eye. This exercise helps you improve concentration, and is also believed to be able to treat eye problems and restore eyesight. If you want to develop your psychic abilities, Trataka or gazing meditation can help you improve your psychic vision and ability to see with your inner eye or third eye. This will activate and awaken your third eye, or ajna chakra, which is your doorway to the spiritual world and psychic abilities.\n\nThis is day 27 of the 30 day meditation challenge for beginners, that will teach you how to meditate with daily guided meditation exercises for health improvement and spiritual awakening.\n\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DD36qwZ_JBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DD36qwZ_JBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DD36qwZ_JBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DD36qwZ_JBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DD36qwZ_JBM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DD36qwZ_JBM",
+        "videoPublishedAt": "2015-04-27T13:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/XUtX1VP6K4okXVcj378AxjXxEII\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2015-04-28T22:17:59.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Zen Meditation - Guided Zen Buddhism Meditation Zazen - Day 28",
+        "description": "Guided Zen Meditation also known as Zazen for inner peace and enlightenment. Zen meditation is an ancient Buddhism meditation technique for relaxation and inner peace. Zen meditation is a great way to experience balance and inner awareness and this guided Zen meditation of Zazen will guide you through a relaxing counting meditation, susokukan, to help you stay focused during meditation, which is great for beginners. Zen meditation is a great relaxation meditation and can help you completely relax and reduce stress, anxiety and boost your immune system. In this guided Zen meditation we will breath from our Hara, which is our pelvic area. There will also be relaxing nature sounds of water in this 30 minute guided Zen meditation exerciser.\n\nThis is day 28 of the 30 day meditation challenge for beginners, where you will learn how to meditate and how to get started as a beginner.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m-7w1UxdNE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m-7w1UxdNE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m-7w1UxdNE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m-7w1UxdNE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m-7w1UxdNE0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "m-7w1UxdNE0",
+        "videoPublishedAt": "2015-04-28T13:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/vZAFMVv-wFGU24eGNbOaQjFZM5g\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2015-04-30T10:50:56.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Love Meditation for Unconditional Love and Inner Peace - Day 29",
+        "description": "Love is able to create miracles, to open your heart, with this love meditation for unconditional love and compassion to help you find love and spread love. This Love meditation will guide you through a beautiful calm meditation where you will focus on opening your heart and learn how to find love around you and welcome love into your life. Attract love by sending out unconditional love, as we attract what we send out by the law of attraction. Love meditation can help you find love and find your soulmate and your one true love, and it can help you see the beauty that surrounds you. Love meditation will also allow you to let go and forgive the people who have hurt you, so that you can get rid of these negative emotions of hatred, anger and resentment. \n\nThis Love meditation will focus on filling your body and heart with love by chanting love mantras repeatedly like a love hypnosis... A hypnosis to influence the subconscious mind and help you attract love and relationships if you for instance wander how to find a girlfriend or boyfriend, and how to feel connected to other people, in a world that can seem so isolated. \n\nThis is day 29 of the 30 day meditation challenge for beginners, which is a meditation challenge for beginners who want to learn how to meditate in an easy and simple way.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9txea_n4RHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9txea_n4RHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9txea_n4RHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9txea_n4RHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9txea_n4RHI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9txea_n4RHI",
+        "videoPublishedAt": "2015-04-29T13:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/jN1gh1SRBcbP1-6NkdVrccpD3Ys\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2015-05-01T11:26:19.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Zen Meditation Zazen and Kinhin Walking Meditation - Day 30",
+        "description": "Guided relaxing Zen meditation Zazen followed by the Buddhist walking meditation Kinhin for enlightenment and inner awareness. Zen meditation or Zazen is an ancient Buddhism meditation practice, that means seated meditation, and allows you to empty your mind and find inner peace and awareness. Walking meditation can be a great break from seated meditation, but is also a integrated part of the Zen meditation, as it allows for another experience and another way of achieving inner peace, enlightenment and awareness. This is a guided zen meditation that last 30 minutes, and will take you through the exercise. In the zen meditation Zazen you will sit in either full, half lotus or burmese meditation posture with your hands in the cosmic mudra breathing into your hara. For the Kinhin walking meditation, your hands will be in the Shashu mudra and you will walk clockwise taking one half step for each exhalation. So try this Zen meditation and walking meditation to learn how to relax. There will be soothing and relaxing water sounds in the background to help you relax and connect with the nature.\n\nThis is the last day of the 30 day meditation challenge for beginners. Congratulation! you have now finished this 30 day challenge which is a great step, as the hardest part is often to get started with meditation. Hope it has been a great experience and that it has taught you how to meditate.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohCYb8CeS5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohCYb8CeS5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohCYb8CeS5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ohCYb8CeS5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ohCYb8CeS5g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ohCYb8CeS5g",
+        "videoPublishedAt": "2015-04-30T13:34:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/X3Gcn88EOyZYz93RSMp6O4t_aBo\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2015-05-01T23:16:47.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "30 Day Meditation Challenge Evaluation - Post Challenge - Day 31",
+        "description": "The 30 day meditation challenge for beginners is now over, and you have successfully completed the meditation challenge... Congratulation! Now it is time to evaluate and reflect on the challenge to see if you reach any of your goals, or if you feel more relaxed, less stressed out, and more centered. The 30 Day meditation challenge has helped you get started with meditation as a beginner, and now it is time to continue the practice and incorporate it into your daily life, to be able to receive the full benefits of meditation. So Congratulation on completing this 30 day meditation challenge for beginners, and thanks for joining me on this challenge. Please leave a comment and share your thought on this challenge and if you want more challenges in the future.\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\nMy Amazon eBooks ► https://www.amazon.com/JBITTERSWEET/e/B00YAVPCIA\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D9PF6J6_MlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D9PF6J6_MlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D9PF6J6_MlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D9PF6J6_MlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D9PF6J6_MlU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "D9PF6J6_MlU",
+        "videoPublishedAt": "2015-05-01T18:47:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/BmHmJRGroHfHr7PzfaTzobaWSps\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2017-04-23T18:32:10.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Announcement! - 7 Steps to Happiness Challenge",
+        "description": "Join on Patreon - https://www.patreon.com/jbittersweet \n\nThe 7 Steps to Happiness Challenge... Only available on Patreon!\n\nWelcome to the 7 Step to Happiness Challenge… the video course that will help you step outside your comfort zone and change your life from being fine into being extraordinary. If you feel stuck in the same boring routine, working on autopilot most of the time, feeling unfulfilled and low on energy, motivation and excitement, then this challenge will help you turn your life around… giving you new motivation and a passion for life, and giving you a sense of inner peace and happiness.\n\nLife is supposed to be an adventure, but most of us get stuck at some point, doing things that do not excite us… stuck in a mundane life, where every day look exactly alike. We lose our passion for life and wonder how we will ever get this passion back. But it is much easier than you may think. The key is to do a little each day to pull us out of this autopilot mode, and allow us to appreciate all the wonderful things we have in our lives, plus setting new exciting goals and work towards those. This challenge will give you 7 steps, each with at least 2 exercises to help turn your life into an adventure, and help you let go of regret, hurt and self-blame, so that you can step into your new life and experience happiness once again.\n\nHere are the 7 steps to happiness\nStep 1 - Letting Go\nStep 2 - Stepping Into Your New Life\nStep 3 - Strengthening Your Relationships\nStep 4 - Shifting Your Mindset\nStep 5 - Living with Passion\nStep 6 - Spreading Love and Kindness\nStep 7 - Finding Inner Peace\n\nThis challenge consists of 28 videos, and twice a week, Mondays and Fridays, you will get a new video with a new challenge or inspiration to bring you towards your goal. Each step has an introduction video, and several exercises focusing on different areas of your life. Do not rush these exercises and give yourself the time you need to truly master the steps, feeling a little happier and little bit more peaceful with each step.\n\nTo join this challenge, pledge the $9 monthly support on Patreon, and you will get access to these videos, which will only be available for patrons on this level and above. Videos will be shared on Patreon and on a private page on my website, which you will get access to once you sign up.\n\nJoin on Patreon - https://www.patreon.com/jbittersweet  \n\nLooking forward seeing you on the challenge!\nNamaste\n\n\nSubscribe for more great videos!\nFollow me on Twitter ► https://twitter.com/jbittersweety\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xYwA9LSZutI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xYwA9LSZutI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xYwA9LSZutI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xYwA9LSZutI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xYwA9LSZutI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xYwA9LSZutI",
+        "videoPublishedAt": "2017-04-23T18:02:54.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/bSoQl4NP7ITG9ImCfI47CZKNPvg\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2017-04-06T23:10:32.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "I Need Your Help!",
+        "description": "Support me on Patreon ► https://www.patreon.com/jbittersweet \n\nHi guys! I find myself in a position where my only option is to ask you for help. There have been some dramatic changes to YouTube, making it impossible for YouTubers to make videos full- or part time. This has created massive panic around the YouTube community and the many content creators now reach out to you, the viewers, for help.\n\nTo keep this channel alive, I ask you to support me on Patreon with a few dollars each month. I would be so incredibly grateful for your help and support, and I am so sorry that it has come to this... but your help is basically my last option to be able to continue making videos. So I really hope you understand, and are able to spare a few dollars to keep this channel alive!\n\nAt the moment you are able to support me with $2, $5 or $9\n\nThank you for your kindness and generosity... it really means the world to me!\n\nSupport me ► https://www.patreon.com/jbittersweet \n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5y9N7ti5x2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5y9N7ti5x2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5y9N7ti5x2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5y9N7ti5x2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5y9N7ti5x2U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5y9N7ti5x2U",
+        "videoPublishedAt": "2017-04-06T18:37:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/TkG0AN5rg1gJnTTcvARLKJfiUAo\"",
+      "id": "UExGNzhfNFR3ZFVqLVhHcmNlSEhsdjJSaHpfYUtCNndZcy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2015-05-29T13:10:37.000Z",
+        "channelId": "UCTkSxqPA9XwyhaYwBF4hLbA",
+        "title": "Special Announcement - NEW eBook of the 30 Day Meditation Challenge",
+        "description": "It is here...  \"The 30 Day Meditation Challenge - How to Meditate for Beginners\" eBook ready on Amazon Kindle. \nUS: http://www.amazon.com/gp/product/B00YAMX182\nUK: http://www.amazon.co.uk/gp/product/B00YAMX182\nIndia: http://www.amazon.in/gp/product/B00YAMX182\nGermany: http://www.amazon.de/gp/product/B00YAMX182\nCanada: http://www.amazon.ca/gp/product/B00YAMX182\nAutralia: http://www.amazon.com.au/gp/product/B00YAMX182\netc.\n\nThis eBook is based on the 30 day meditation challenge for beginners video series for those of you want it in a written form as well, to help you learn how to meditate. Thank you so much for all your support and kindness, and if you like the challenge and the book, please leave a nice review at the amazon page... That would really mean a lot to me! You can get the book from this link:\n\nhttp://www.amazon.com/gp/product/B00YAMX182\n\nHope you are going to like the book and hope you found the meditation challenge helpful and easy to follow as a beginner!\n\nThanks for watching\njbittersweet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4tmTKVqxDd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4tmTKVqxDd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4tmTKVqxDd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4tmTKVqxDd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "jbittersweet",
+        "playlistId": "PLF78_4TwdUj-XGrceHHlv2Rhz_aKB6wYs",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4tmTKVqxDd4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4tmTKVqxDd4",
+        "videoPublishedAt": "2015-05-29T13:00:56.000Z"
+      }
+    }
+  ]
+}

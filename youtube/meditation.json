@@ -1,0 +1,1529 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/PPFw6WfgtCvCgkWUfjZdugt05wg\"",
+  "pageInfo": {
+    "totalResults": 31,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/1ah2f79xk57KpuKjyw8_wsb8kSY\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2017-11-25T12:21:22.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "30 Day Meditation Challenge | Program Trailer",
+        "description": "Get the whole challenge free right here: http://www.doyouyoga.com/meditate\n\nThe 30 Day Meditation Challenge is your way to finding complete balance and total zen. For 30 days you will receive one 10-minute meditation class per day, right to your email inbox. You’ll get your zen on for 30 days, wherever you like. All you need to get started is an email address and 10 minutes per day to relax and let go. Join Faith Hunter and thousands of others on this amazing journey. Anyone, who wants to learn how to calm their mind and be a little bit less stressed-out can join. Your coach is world famous yoga and meditation teacher Faith Hunter explore, and share, Faith will be your inspiring and generous mentor on your meditation journey!.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nApp Store / Google Play: DOYOUYOGA\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t1BSDVADD4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t1BSDVADD4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t1BSDVADD4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t1BSDVADD4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t1BSDVADD4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t1BSDVADD4k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "t1BSDVADD4k",
+        "videoPublishedAt": "2015-01-05T14:50:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/u-H-_aTYU4aQg-_-P-RUHmvRbH8\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-02-06T09:02:31.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Getting Started With Meditation | Day 1 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWelcome to Day 1 of the Free Meditation Challenge. Faith has created 30 different meditation exercises to assist you in finding your zen, reducing stress, and to helping you create balance in your life. These meditation lessons are less than 10 minutes each, and will add clarity and focus in every aspect of your life. Today's meditation is simple and will help you begin the journey to cultivating a meditation practice.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_axz86tYOzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_axz86tYOzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_axz86tYOzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_axz86tYOzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_axz86tYOzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_axz86tYOzM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_axz86tYOzM",
+        "videoPublishedAt": "2015-02-01T10:54:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/JhGjWdPN86MNAyQQUBBeN7C_QlI\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2015-02-06T09:02:31.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Breathing Meditation for Stress Relief | Day 2 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nBreath control is a huge part of meditation and mindfulness. This guided meditation is all about using basic breath control to empty your mind, increase your awareness, and find focus in your everyday life.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lXpIYOgiWN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lXpIYOgiWN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lXpIYOgiWN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lXpIYOgiWN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lXpIYOgiWN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lXpIYOgiWN0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lXpIYOgiWN0",
+        "videoPublishedAt": "2015-02-02T09:20:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/wspMqU-likMMdyvKpIJmvxmHxMM\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation to Calm The Mind | Day 3 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nIntention setting is a powerful way to shift your state of mind and improve the way you react in any situation.In this guided meditation, Faith teaches you how to incorporate intention setting into your meditation.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTlvvXYR6Vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTlvvXYR6Vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTlvvXYR6Vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iTlvvXYR6Vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iTlvvXYR6Vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iTlvvXYR6Vg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iTlvvXYR6Vg",
+        "videoPublishedAt": "2015-02-03T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/kVHahY4ht_JcYdcwtkE5yNI6Oj0\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "How to Reduce Stress With Meditation | Day 4 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nOur busy lives can make it difficult to stay chill. Here, Faith teaches a meditation lesson where, lying on your back with a pillow or blanket underneath you, you'll use a three-part breath to help clear the mind and create complete relaxation.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hoDkvIXYh38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hoDkvIXYh38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hoDkvIXYh38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hoDkvIXYh38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hoDkvIXYh38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hoDkvIXYh38"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hoDkvIXYh38",
+        "videoPublishedAt": "2015-02-04T09:05:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/E7uK9VdUaiO7RbLP4Js_-jjtw1Q\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Calming the Mind with Visualization | Day 5 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nThe mind is a powerful tool for creating what you want in life, and your desire to shift in your life. Visualization is the perfect meditation technique to begin the manifestation process. Faith will walk you through a guided meditation based on visualization to help your find peace of mind. \n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HNyPnZmPCSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HNyPnZmPCSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HNyPnZmPCSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HNyPnZmPCSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HNyPnZmPCSo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HNyPnZmPCSo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HNyPnZmPCSo",
+        "videoPublishedAt": "2015-02-04T10:17:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/3we0brws5lwJSNWmQRD8b0l_7tI\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Mindful Meditation ... Just Be | Day 6 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWe are always doing and going. We rarely take or even make time to stop. Faith will share a meditation that encourages you to simply be. By being present the mind will naturally calm down. \n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMZwx4jMJq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMZwx4jMJq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMZwx4jMJq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IMZwx4jMJq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IMZwx4jMJq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IMZwx4jMJq8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IMZwx4jMJq8",
+        "videoPublishedAt": "2015-02-06T08:15:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/f80CHDZDhPHKQNVW5qeIsJAwtYo\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Anxiety | Day 7 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nAnxiety is the result of worry, stress and unease. The next few days Faith will focus on reducing anxiety with meditation. Today's meditation will utilize the breath and subtle movement to tackle anxiety.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QL_eK7mRvo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QL_eK7mRvo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QL_eK7mRvo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QL_eK7mRvo8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QL_eK7mRvo8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QL_eK7mRvo8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QL_eK7mRvo8",
+        "videoPublishedAt": "2015-02-07T08:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/x-cETvwU02cLOFbps6WcxeZUZjE\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "How to Calm Your Mind | Day 8 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nAnxiety is a state of mind that impacts the physical body negatively. In this lesson, Faith will encourage you to simply observe your thoughts from a place of calm detachment to help reduce your anxiety.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wSDxvzTrwWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wSDxvzTrwWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wSDxvzTrwWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wSDxvzTrwWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wSDxvzTrwWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wSDxvzTrwWY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wSDxvzTrwWY",
+        "videoPublishedAt": "2015-02-08T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/nfP8pHriDf7q2Y3amrTBu0zQq2Q\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Reduce Anxiety with Yoga Meditation | Day 9 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nMoving the body prior to a meditation practice is a perfect way to begin the process of calming the mind. In this lesson, Faith will share some simple yoga movements to awaken the mind, body, and breath connection, and then transition into a meditation session.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7lKAzaaAcOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7lKAzaaAcOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7lKAzaaAcOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7lKAzaaAcOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7lKAzaaAcOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7lKAzaaAcOk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7lKAzaaAcOk",
+        "videoPublishedAt": "2015-02-09T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/9fu0UBzz2HAG36P46XsueLbu42g\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Reduce Anxiety with Visualization | Day 10 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nAs Faith has highlighted in previous sessions, visualization is an ideal meditation technique to help you find focus and calm your mind. In this lesson, Faith will take you on a relaxing visualization-based meditation to help you reduce anxiety and create clarity within your mind.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CF5QCByM75s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CF5QCByM75s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CF5QCByM75s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CF5QCByM75s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CF5QCByM75s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CF5QCByM75s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CF5QCByM75s",
+        "videoPublishedAt": "2015-02-10T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/lvUYBfjg8bpQMwkNi44xyzALVJ4\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Asking Yourself Questions | Day 11 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nIn this lesson, Faith will help calm anxiety by asking you a few key questions during the meditation. These questions will assist you as you meditate, and, as you coordinate your breathing with your meditation, help you create equanimity in the mind and the body.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nm0L2btiCEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nm0L2btiCEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nm0L2btiCEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nm0L2btiCEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nm0L2btiCEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nm0L2btiCEQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nm0L2btiCEQ",
+        "videoPublishedAt": "2015-02-11T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/xhEKlA7E5wc2W1RuuxHoFBweBj4\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "How to Think Positively | Day 12 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nAnxiety often stems from our fixations on negative thoughts and fears. In this lesson, Faith teaches a technique of meditation that focuses on positive thinking. These positive thoughts will replace your negative thoughts, creating positivity and peace in their stead.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRGiFJzmzIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRGiFJzmzIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRGiFJzmzIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iRGiFJzmzIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iRGiFJzmzIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iRGiFJzmzIA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iRGiFJzmzIA",
+        "videoPublishedAt": "2015-02-12T08:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/tuiADQQIcZxH8capCfRYm0dxXTU\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Goal Setting | Day 13 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWe all have our goals and ambitions in life, and meditation is a truly powerful way of helping us accomplish these goals. In this lesson, Faith will guide you through a meditation based on goal-setting to empower your thoughts and actions.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ftnbkO-t0BE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ftnbkO-t0BE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ftnbkO-t0BE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ftnbkO-t0BE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ftnbkO-t0BE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ftnbkO-t0BE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ftnbkO-t0BE",
+        "videoPublishedAt": "2015-02-13T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/sxSUbz-brzrHhTCaPI-c8cPsqRE\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Inner Strength | Day 14 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nTrue strength is more than just feeling powerful and strong on a physical level. In this lesson, Faith teaches a meditation practice to help you cultivate genuine mental and emotional strength.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VKfqJKNEIHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VKfqJKNEIHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VKfqJKNEIHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VKfqJKNEIHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VKfqJKNEIHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VKfqJKNEIHY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VKfqJKNEIHY",
+        "videoPublishedAt": "2015-02-14T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/ANOiXwIhJE46EC1IKin1AFTT4dI\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Courage | Day 15 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWe all desire to feel strong, powerful, and have the courage to live our dreams. This guided meditation helps you cultivate courage in all aspects of your life, give you the confidence to pursue your goals and to live without fear or insecurity.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbXmCw7E7VI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbXmCw7E7VI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbXmCw7E7VI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fbXmCw7E7VI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fbXmCw7E7VI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fbXmCw7E7VI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fbXmCw7E7VI",
+        "videoPublishedAt": "2015-02-15T09:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/cm-WYiWV2W37ZyQystF9K9T57rc\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Increasing Energy | Day 16 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nMany of us suffer from low energy and fatigue from time to time. In this lesson, Faith offers a meditation to boost your energy levels, recharge your mind, and stimulate your body completely.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XEuv-g7AMV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XEuv-g7AMV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XEuv-g7AMV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XEuv-g7AMV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XEuv-g7AMV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XEuv-g7AMV0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XEuv-g7AMV0",
+        "videoPublishedAt": "2015-02-16T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/oeHwKNKvtK7sGHGAsXt8Z_2_VmQ\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Knowing Your Worth | Day 17 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nSelf-worth is a direct reflection of our inner connection and belief in ourselves. The first step in building self-esteem is mentally knowing your own worth. Today, Faith guides you through a meditation that will have you believing, at the depths of your soul, that \"You are worthy.\"\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hjbNYTYYzqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hjbNYTYYzqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hjbNYTYYzqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hjbNYTYYzqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hjbNYTYYzqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hjbNYTYYzqU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hjbNYTYYzqU",
+        "videoPublishedAt": "2015-02-17T07:26:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/k5hl1qdFaHfBfJitaEwr8v2-R68\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Abundance | Day 18 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nEvery now and then, we find ourselves worrying about not having enough money, happiness, and peace in our lives. In this lesson, Faith teaches a mediation that helps you cultivate and manifest abundance in your life.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JMn-tMV2JXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JMn-tMV2JXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JMn-tMV2JXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JMn-tMV2JXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JMn-tMV2JXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JMn-tMV2JXY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JMn-tMV2JXY",
+        "videoPublishedAt": "2015-02-18T08:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/-nfZA7l9HMUePiQqce7RsO82j74\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Forgiveness | Day 19 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWe all make mistakes. That is what makes us human. However, we often have a difficult time saying \"I'm sorry.\" Today, Faith teaches a meditation to help you release guilt and open the path to forgiving yourself and others.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TCutKOQ5Ptk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TCutKOQ5Ptk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TCutKOQ5Ptk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TCutKOQ5Ptk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TCutKOQ5Ptk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TCutKOQ5Ptk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TCutKOQ5Ptk",
+        "videoPublishedAt": "2015-02-19T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/oqbdpegl-koUbTHiH2073k9NgpU\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Compassion | Day 20 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nCompassion allows us to feel empathy for others and improves our ability to understand and qualify our experiences. In this lesson, Faith will help you meditate to heighten and deepen your sense of compassion.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yIo2Qy-HVPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yIo2Qy-HVPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yIo2Qy-HVPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yIo2Qy-HVPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yIo2Qy-HVPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yIo2Qy-HVPk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yIo2Qy-HVPk",
+        "videoPublishedAt": "2015-02-20T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/4nEJJ2ZsbldvPRgbKbT721wltkY\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Gratitude | Day 21 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nGratitude comes from a heart-centered place of deep appreciation. Faith created a gratitude meditation to help you experience more gratitude in every aspect of your life.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D4jsyGVBNyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D4jsyGVBNyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4jsyGVBNyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D4jsyGVBNyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D4jsyGVBNyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D4jsyGVBNyo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "D4jsyGVBNyo",
+        "videoPublishedAt": "2015-02-21T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/uepGIizyhyyxyiNaUg4bKJ1YTLg\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Openness | Day 22 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nAs a result of hardship, obstacles, and life problems, we something close off mentally which has a direct impact on our physical body. This mediation is designed to create a feeling of openness. It will help you release things that are holding you back, and be open to the possibilities of life.\n\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XD6ZGkwq0qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XD6ZGkwq0qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XD6ZGkwq0qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XD6ZGkwq0qg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XD6ZGkwq0qg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XD6ZGkwq0qg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XD6ZGkwq0qg",
+        "videoPublishedAt": "2015-02-22T08:00:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/sQTi0_ieDy766NqylGfmC5MMIzg\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation for Self-Love | Day 23 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nLove of self is the deepest form of love we can experience. It is true, you can't love another without first loving yourself. Faith designed this self-love meditation to help you maintain or begin to cultivate non-egoic feelings of love. \n\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vzn8cbLEYKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vzn8cbLEYKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vzn8cbLEYKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vzn8cbLEYKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vzn8cbLEYKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vzn8cbLEYKM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vzn8cbLEYKM",
+        "videoPublishedAt": "2015-02-23T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/HL40b3HdKZQXIsLikcy40_HOkl4\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation to Heal Relationships | Day 24 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWe have so many different types of relationships...family, friends, co-workers, etc. However, there are moments where misunderstandings develop, and cause the relationships to die. This meditation is focused on healing broken relationships, while at the same time healing your own negative feelings around these relationships.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IYLxNfPPR2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IYLxNfPPR2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IYLxNfPPR2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IYLxNfPPR2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IYLxNfPPR2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IYLxNfPPR2A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IYLxNfPPR2A",
+        "videoPublishedAt": "2015-02-24T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/u0kxi_F9BkjJpeICwv1r13GkDVU\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Deep Sleep Meditaton | Day 25 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nWe all desire adequate sleep and rest. Faith has created a deep sleep meditation that eliminates the chaos in the mind, and sets the tone for a lovely night's sleep.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cC0EFCgndvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cC0EFCgndvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cC0EFCgndvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cC0EFCgndvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cC0EFCgndvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cC0EFCgndvQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cC0EFCgndvQ",
+        "videoPublishedAt": "2015-02-25T08:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/hl4XseLwMx3Zz7C_nIj25hPGnec\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Letting Go Meditation | Day 26 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nLetting go in life is one of the hardest things to do. In order to let go, we have to have a sense of trust, and not be afraid to be vulnerable. This meditation will help you establish the mental foundation to make letting go feel more natural as well as to disempower the fear of \"not having.\"\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dq5y6qJObLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dq5y6qJObLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dq5y6qJObLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dq5y6qJObLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dq5y6qJObLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dq5y6qJObLo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Dq5y6qJObLo",
+        "videoPublishedAt": "2015-02-26T08:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/KTEIDeA8BhhhzWykg6TDfWWdCxE\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2015-02-27T17:36:30.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation and Restorative Yoga for Chest & Shoulders | Day 27 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nRestorative yoga is a great tool to use prior to meditation. It enables you to stretch and open the body, while at the same time preparing the mind to relax. This restorative yoga practice is focused on releasing tension in the chest and shoulders.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CnBLT2SaeuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CnBLT2SaeuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CnBLT2SaeuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CnBLT2SaeuY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CnBLT2SaeuY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CnBLT2SaeuY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CnBLT2SaeuY",
+        "videoPublishedAt": "2015-02-27T11:38:19.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/fQyuJ03XOn8WoU9HnwOuy8J1Pzw\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2015-02-28T13:29:13.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation and Restorative Yoga for the Hips | Day 28 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nHips hold a significant amount of trauma and fear. Faith designed a combination of restorative yoga and meditation to help you release these negative feelings, and also to make it easier to for you to experience ease while you are seated in meditation.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LZ51WELLIQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LZ51WELLIQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZ51WELLIQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LZ51WELLIQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LZ51WELLIQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LZ51WELLIQU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LZ51WELLIQU",
+        "videoPublishedAt": "2015-02-28T08:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/IeUQ4ZjCm3VAuOeG92cDibQWGnQ\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2015-03-02T00:44:07.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Meditation and Legs Up The Wall | Day 29 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nOne of Faith's favorite ways to relax is Legs-Up-the-Wall Pose. This restorative yoga posture releases tension in the legs, calms the mind, and is a soothing prep for meditation.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sHLJvxmZIk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sHLJvxmZIk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sHLJvxmZIk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sHLJvxmZIk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sHLJvxmZIk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sHLJvxmZIk0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sHLJvxmZIk0",
+        "videoPublishedAt": "2015-03-01T08:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/kd3YRh276zKNFWObDzQAATHahu0\"",
+      "id": "UExjamdYUWtIV0g0NGQtc2gtNUpXanRXUENWcFg1WC1TaS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2015-03-02T17:00:13.000Z",
+        "channelId": "UCEdFmnwp53XmtODotf788-Q",
+        "title": "Full Body Relaxation and Final Meditation | Day 30 | 30 Day Meditation Challenge",
+        "description": "Sign up for the whole free challenge: https://www.doyouyoga.com/meditate\n\nMeditation does not always have to happen in a seated cross-legged position. It can also be done while lying down. This final mediation is focused on relaxing the entire body, soothing the mind, and creating an overall feeling of balance, peace, and harmony, both mentally and physically.\n\nLet us know how it goes in the comments.\n\nDon't forget to subscribe here: https://www.youtube.com/subscription_center?add_user=doyouyoga\n\nMuch more at: www.doyouyoga.com\nInstagram: instagram.com/doyouyoga\nFacebook: DOYOUYOGA\n\n#doyouyoga",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7IxCY_SSW0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7IxCY_SSW0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7IxCY_SSW0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7IxCY_SSW0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7IxCY_SSW0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOYOUYOGA.com",
+        "playlistId": "PLcjgXQkHWH44d-sh-5JWjtWPCVpX5X-Si",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7IxCY_SSW0g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7IxCY_SSW0g",
+        "videoPublishedAt": "2015-03-02T08:00:00.000Z"
+      }
+    }
+  ]
+}
